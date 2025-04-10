@@ -1,0 +1,5 @@
+com\example\video_catalog\video\VideoRepository.class
+com\example\video_catalog\video\VideoService.class
+com\example\video_catalog\VideoCatalogApplication.class
+com\example\video_catalog\video\Video.class
+com\example\video_catalog\video\VideoController.class
